@@ -1,4 +1,6 @@
-# 3D-Image-Construction-from-2D-images-
+# 3D-Image-Construction-from-2D-images
+
+## Use meshlab to visualise the final output
 
 
 
